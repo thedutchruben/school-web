@@ -17,17 +17,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TSt52b1SM4S5qVRAeOZwMhTp2u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdracht 4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdracht 7" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Opdracht 6\HTML" />
+      <recent name="C:\xampp\htdocs\Opdracht 6\styles" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Opdracht 6" />
+      <recent name="C:\xampp\htdocs\Opdracht 5" />
       <recent name="C:\xampp\htdocs\Opdracht 4" />
     </key>
   </component>
@@ -55,10 +67,22 @@
       <updated>1573465137826</updated>
       <workItem from="1573465141429" duration="4930000" />
       <workItem from="1573660027286" duration="663000" />
+      <workItem from="1574069565720" duration="1677000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
